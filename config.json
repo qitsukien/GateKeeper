@@ -1,0 +1,19 @@
+{
+  "guild_id": 0,
+  "registration_channel_id": 0,
+  "log_channel_id": 0,
+  "welcome_channel_id": 0,
+  "rules_channel_id": 0,
+  "unregistered_role_id": 0,
+  "member_role_id": 0,
+  "rename_cooldown_hours": 24,
+  "registration_message_id": 0,
+  "rules_message_id": 0,
+  "registration_message_text": "",
+  "rules_message_text": "",
+  "backup_interval_hours": 24,
+  "backup_max_files": 5,
+  "last_auto_backup_at": null,
+  "registration_attempt_cooldown_seconds": 15,
+  "exports_archive_max_files": 5
+}
